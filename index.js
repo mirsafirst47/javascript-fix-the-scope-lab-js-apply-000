@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var animal = "cat"
+  var animal = "cat" // using hint in read me. variables declared inside a function are within the function's scope
   // The tests expect this function to return `animal` just like the previous function
   // However, you cannot simply modify the existing variable declared on line 1 in the global scope
   // How can we make sure that this function
