@@ -1,4 +1,4 @@
-var animal = 'dog'
+var $animal = 'dog'
 
 function myAnimal() {
   // You should not need to modify this function
@@ -19,7 +19,7 @@ function add2(n) {
   return n + two
 
   // Feel free to move things around!
-  
+
 }
 
 var funkyFunction = function() {
