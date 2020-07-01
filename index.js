@@ -16,7 +16,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  const two = 2
+  const two = 2// define the constant prior to the desired return
   return n + two
 
   // Feel free to move things around!
